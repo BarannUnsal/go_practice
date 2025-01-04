@@ -1,4 +1,4 @@
-# Go Lang Tutorial - API Example
+# Go Lang Tutorial - API Example (Without Db)
 
 This tutorial showcases my learning process in Go Lang and how to build and interact with a simple API
 
